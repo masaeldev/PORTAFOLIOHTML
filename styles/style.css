@@ -53,10 +53,11 @@ strong{
     align-items: center;
     padding: 6% 15% ;
     justify-content: space-between;
+    gap: 82px;
 }
 
 .presentacion__contenido{
-    width: 615px;
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -81,7 +82,7 @@ strong{
 }
 
 .presentacion__enlaces__link{
-    width: 280px;
+    width: 50%;
     text-align: center;
     border-radius: 8px; 
     font-size: 24px;
@@ -107,8 +108,8 @@ strong{
 }
 
 .presentacion__imagen{
-    height: 488px;
-    width: 550px;
+    height: 50%;
+    width: 50%;
     border: 2%;
     top: 235px;
 }
