@@ -125,6 +125,15 @@ strong{
 }
 
 @media (max-width: 900px) {
+
+    .header{
+        padding: 10%;
+    }
+
+    .header__menu{
+        justify-content: center;
+    }
+
     .presentacion{
         flex-direction: column-reverse;
     }
